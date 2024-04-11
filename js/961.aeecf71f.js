@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkdev"]=self["webpackChunkdev"]||[]).push([[961],{961:function(e,n,u){u.r(n),u.d(n,{default:function(){return c}});var t=function(){var e=this,n=e._self._c;return n("div",[e._v(" 入库管理/采购入库/实验用品 ")])},r=[],f={name:"采购入库/实验用品"},l=f,s=u(1656),a=(0,s.A)(l,t,r,!1,null,"40da111f",null),c=a.exports}}]);

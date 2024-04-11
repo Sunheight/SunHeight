@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkdev"]=self["webpackChunkdev"]||[]).push([[1271],{1271:function(e,n,u){u.r(n),u.d(n,{default:function(){return a}});var t=function(){var e=this,n=e._self._c;return n("div",[e._v(" 库存预警 ")])},r=[],c={name:"库存预警"},l=c,s=u(1656),f=(0,s.A)(l,t,r,!1,null,"32d5485c",null),a=f.exports}}]);

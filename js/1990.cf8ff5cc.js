@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkdev"]=self["webpackChunkdev"]||[]).push([[1990],{1990:function(e,p,s){e.exports=s.p+"img/pageHeader.f2722a4d.jpg"}}]);

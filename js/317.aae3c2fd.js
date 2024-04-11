@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkdev"]=self["webpackChunkdev"]||[]).push([[317],{317:function(e,n,r){r.r(n),r.d(n,{default:function(){return d}});var u=function(){var e=this,n=e._self._c;return n("div",[e._v(" comparison ")])},s=[],t={name:"ledger-comparison"},a=t,c=r(1656),l=(0,c.A)(a,u,s,!1,null,"38ea34dd",null),d=l.exports}}]);

@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkdev"]=self["webpackChunkdev"]||[]).push([[8382],{8382:function(e,n,u){u.r(n),u.d(n,{default:function(){return i}});var r=function(){var e=this,n=e._self._c;return n("div",[e._v(" 销售部/客户管理/客户档案/档案查询 ")])},t=[],c={name:"Branch-MS-client-archive-query"},f=c,l=u(1656),a=(0,l.A)(f,r,t,!1,null,"6f903f2b",null),i=a.exports}}]);

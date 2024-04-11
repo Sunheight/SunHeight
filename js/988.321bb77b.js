@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkdev"]=self["webpackChunkdev"]||[]).push([[988],{988:function(e,n,u){u.r(n),u.d(n,{default:function(){return s}});var r=function(){var e=this,n=e._self._c;return n("div")},t=[],c={name:"copyCounter",prop:["row"]},f=c,l=u(1656),o=(0,l.A)(f,r,t,!1,null,"303d5fc2",null),s=o.exports}}]);

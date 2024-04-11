@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkdev"]=self["webpackChunkdev"]||[]).push([[7791],{7791:function(e,n,u){u.r(n),u.d(n,{default:function(){return i}});var r=function(){var e=this,n=e._self._c;return n("div",[e._v(" ledger-semi ")])},l=[],s={name:"ledger-semi"},t=s,d=u(1656),f=(0,d.A)(t,r,l,!1,null,"1bf8d709",null),i=f.exports}}]);

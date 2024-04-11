@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkdev"]=self["webpackChunkdev"]||[]).push([[2166],{2166:function(e,n,c){c.r(n),c.d(n,{default:function(){return s}});var r=function(){var e=this,n=e._self._c;return n("div",[e._v(" 新增管理 ")])},t=[],u={name:"Branch/MS/client/archive/recent"},a=u,l=c(1656),i=(0,l.A)(a,r,t,!1,null,"26ca8a73",null),s=i.exports}}]);

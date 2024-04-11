@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkdev"]=self["webpackChunkdev"]||[]).push([[4560],{4560:function(e,p,s){e.exports=s.p+"img/pageFooter.d2a4e3c9.jpg"}}]);

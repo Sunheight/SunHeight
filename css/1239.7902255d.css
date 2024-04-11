@@ -1,0 +1,1 @@
+section.reportHistory div.card{border:.5px solid rgba(0,0,0,.1);cursor:pointer}section.reportHistory div.card.current{color:#fff;background-color:#0094d8}section.reportHistory div.card:hover{border:.5px solid #0094d8}

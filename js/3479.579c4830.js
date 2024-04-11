@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkdev"]=self["webpackChunkdev"]||[]).push([[3479],{3479:function(e,s,c){e.exports=c.p+"img/sort-desc-svgrepo-com.3f8aa915.svg"}}]);
